@@ -1,11 +1,11 @@
-# lombok-logging
- Simple empty project highlighting the lombok logging capabilities.
+# functional-sandbox
+ Used to use and understand all basic functionalities of the functional programming, lambda and other features related.
 
 ## 1) What is this repository for?
 
 * Quick summary.
 
-No utility but explanatory implementation of the logs in an application with the use of Lombok library
+Not intended to be used by a final user
 
 
 * Version.
@@ -20,7 +20,7 @@ No utility but explanatory implementation of the logs in an application with the
 
 * Development environment.
   - DB:				None
-  - Java version: 	1.12
+  - Java version: 	1.8
   - Maven
 
 * Configuration.  
